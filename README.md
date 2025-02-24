@@ -6,11 +6,11 @@ Software Engineering Day1 Assignment
 
 Explain what software engineering is and discuss its importance in the technology industry.
 
-=> Software engineering applies engineering principles, methods and tools to develop and maintain high-quality software systems. It involves product design, development, testing, deployment and maintenance. Software engineering is significant in the technology industry as it powers various aspects of modern life including communication, commerce, entertainment, and healthcare
+=> Software engineering applies engineering principles, methods and tools to develop and maintain high-quality software systems. It involves product design, development, testing, deployment and maintenance. Software engineering is significant in the technology industry as it powers various aspects of modern life including communication, commerce, entertainment, and also healthcare
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
-=> Key milestones in the evolution of software engineering are the establishment of software engineering as a discipline in the 1960s, the advent of structured programming, and the rise of agile methodologies characterised by constant iteration through the development processes.
+=> Key milestones in the evolution of software engineering are the establishment of software engineering as a discipline in the 1960s, the advent of structured programming, and the rise of agile methodologies, which are characterised by constant iteration through the development processes.
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
@@ -34,7 +34,7 @@ Describe the roles and responsibilities of a Software Developer, a Quality Assur
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
 => IDEs are very important in the software development process as they provide the necessary tools for writing, debugging and testing code. Examples are Vscode and Eclipse.
-=> VCS helps in tracking and managing changes in codes during development. Examples are Github, GitLab
+=> VCS helps track and manage changes in codes during development. Examples are Github, GitLab
 
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
